@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iItemID</Column>
+		<Text>物品编号1</Text>
+		<Explain>物品编号1说过的话32235日访日团火热热议</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>fGetTime</Column>
+		<Text>咬饵时间2</Text>
+		<Explain>咬饵时间222222</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>iFishingLine</Column>
+		<Text>鱼线长度</Text>
+		<Explain>鱼线长度</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>iCoefficient</Column>
+		<Text>系数</Text>
+		<Explain>系数</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>iEndurance</Column>
+		<Text>鱼线耐久</Text>
+		<Explain>鱼线耐久</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>iPhysical</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

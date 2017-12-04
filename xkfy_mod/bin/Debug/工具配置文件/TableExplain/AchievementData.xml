@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iType</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>iID</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>sAchName</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>sAchExplain</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>sUIImage</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>iEndMove</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn7</ToolsColumn>
+		<Column>iCheckType</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn8</ToolsColumn>
+		<Column>strCheckValue</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn9</ToolsColumn>
+		<Column>iCount</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

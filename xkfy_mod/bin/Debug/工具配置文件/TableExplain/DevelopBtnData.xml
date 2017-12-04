@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iBtnID</Column>
+		<Text>项目编号</Text>
+		<Explain>项目编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>xRemark</Column>
+		<Text>项目说明</Text>
+		<Explain>项目说明</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>sMovie</Column>
+		<Text>修炼动画</Text>
+		<Explain>修炼动画</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>bCondition1</Column>
+		<Explain>效果类型#1表示增加基础属性，0表示无效果</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>iType1</Column>
+		<Explain>养成坐标一#增加基础属性参看属性坐标图，增加好感度参考既有打杂格式</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>iArg1</Column>
+		<Explain>养成坐标二#增加好感度时为人物编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn7</ToolsColumn>
+		<Column>iAmount1</Column>
+		<Text>成长值</Text>
+		<Explain>成长值</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn8</ToolsColumn>
+		<Column>sStringID1</Column>
+		<Explain>提示信息编号#修炼后，屏幕上提示的信息</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn9</ToolsColumn>
+		<Column>bCondition2</Column>
+		<Text>效果类型</Text>
+		<Explain>效果类型</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn10</ToolsColumn>
+		<Column>iType2</Column>
+		<Text>养成坐标一</Text>
+		<Explain>养成坐标一</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn11</ToolsColumn>
+		<Column>iArg2</Column>
+		<Text>养成坐标二</Text>
+		<Explain>养成坐标二</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn12</ToolsColumn>
+		<Column>iAmount2</Column>
+		<Text>成长值</Text>
+		<Explain>成长值</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn13</ToolsColumn>
+		<Column>sStringID2</Column>
+		<Text>提示信息编号</Text>
+		<Explain>提示信息编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn14</ToolsColumn>
+		<Column>bCondition3</Column>
+		<Text>效果类型</Text>
+		<Explain>效果类型</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn15</ToolsColumn>
+		<Column>iType3</Column>
+		<Text>养成坐标一</Text>
+		<Explain>养成坐标一</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn16</ToolsColumn>
+		<Column>iArg3</Column>
+		<Text>养成坐标二</Text>
+		<Explain>养成坐标二</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn17</ToolsColumn>
+		<Column>iAmount3</Column>
+		<Text>成长值</Text>
+		<Explain>成长值</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn18</ToolsColumn>
+		<Column>sStringID3</Column>
+		<Text>提示信息编号</Text>
+		<Explain>提示信息编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn19</ToolsColumn>
+		<Column>bCondition4</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn20</ToolsColumn>
+		<Column>iPhy</Column>
+		<Text>消耗体力</Text>
+		<Explain>消耗体力</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn21</ToolsColumn>
+		<Column>bCondition5</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn22</ToolsColumn>
+		<Column>iMood</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn23</ToolsColumn>
+		<Column>iLoopSwitch</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn24</ToolsColumn>
+		<Column>iBtnType</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

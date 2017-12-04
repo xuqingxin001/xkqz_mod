@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iAbilityID</Column>
+		<Text />
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>iNeedLv</Column>
+		<Text />
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>iMoveFrequency</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>iMakeTarget</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>iMakeTargetAmount</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>iSuccessItemID</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn7</ToolsColumn>
+		<Column>iMaxRandAmount</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn8</ToolsColumn>
+		<Column>iLongBox</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn9</ToolsColumn>
+		<Column>iWidthBox</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn10</ToolsColumn>
+		<Column>iSceneType0</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn11</ToolsColumn>
+		<Column>iSceneType1</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn12</ToolsColumn>
+		<Column>iSceneType2</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn13</ToolsColumn>
+		<Column>iSceneType3</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn14</ToolsColumn>
+		<Column>iSceneType4</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn15</ToolsColumn>
+		<Column>iSceneType5</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn16</ToolsColumn>
+		<Column>iSceneType6</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn17</ToolsColumn>
+		<Column>iSceneType7</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn18</ToolsColumn>
+		<Column>iSceneType8</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn19</ToolsColumn>
+		<Column>iSceneType9</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn20</ToolsColumn>
+		<Column>iSceneType10</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn21</ToolsColumn>
+		<Column>iSceneType11</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn22</ToolsColumn>
+		<Column>iSceneType12</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn23</ToolsColumn>
+		<Column>iSceneType13</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn24</ToolsColumn>
+		<Column>iSceneType14</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn25</ToolsColumn>
+		<Column>iSceneType15</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn26</ToolsColumn>
+		<Column>iSceneType16</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn27</ToolsColumn>
+		<Column>iSceneType17</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn28</ToolsColumn>
+		<Column>iSceneType18</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn29</ToolsColumn>
+		<Column>iSceneType19</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn30</ToolsColumn>
+		<Column>iSceneType20</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn31</ToolsColumn>
+		<Column>iSceneType21</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn32</ToolsColumn>
+		<Column>iSceneType22</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn33</ToolsColumn>
+		<Column>iSceneType23</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn34</ToolsColumn>
+		<Column>iSceneType24</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn35</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn36</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn37</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn38</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn39</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn40</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn41</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn42</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn43</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn44</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn45</ToolsColumn>
+		<Column />
+		<Text />
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

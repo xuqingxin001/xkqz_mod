@@ -1,0 +1,61 @@
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\bin\Debug\xkfy_mod.exe.config
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\bin\Debug\xkfy_mod.exe
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\bin\Debug\xkfy_mod.pdb
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.About.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.FrmTbConfig.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.Almighty.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.AttributeList.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.Dock.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.frmExplain.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.frmMain.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.Properties.Resources.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.RadioList.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.frmSetUp.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.test.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.csproj.GenerateResource.Cache
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.exe
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.pdb
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\bin\Release\xkfy_mod.exe.config
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\bin\Release\xkfy_mod.exe
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\bin\Release\xkfy_mod.pdb
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.FrmSetCbo.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.BattleConditionEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.BattleAreaDataEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.AlmightyEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.ItemDataEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.NeigongUpValueEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.RewardDataEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.TalkManagerEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.NeiGongEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.RoutineNewDataEdit.resources
+D:\My Computer App\Desktop\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.csprojResolveAssemblyReference.cache
+D:\xkfy_mod\xkfy_mod\bin\Debug\xkfy_mod.exe.config
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.exe
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.pdb
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.About.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.BattleConditionEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.BattleAreaDataEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.FrmTbConfig.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.Almighty.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.AlmightyEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.AttributeList.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.Dock.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.FrmExplain.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.ItemDataEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.FrmMain.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.NeiGongEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.NeigongUpValueEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.RadioList.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.RewardDataEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.RoutineNewDataEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.FrmSetCbo.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.FrmSetUp.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.TalkManagerEdit.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.Test.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.csproj.GenerateResource.Cache
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.Properties.Resources.resources
+D:\xkfy_mod\xkfy_mod\bin\Debug\xkfy_mod.exe
+D:\xkfy_mod\xkfy_mod\bin\Debug\xkfy_mod.pdb
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.DlcNewFile.resources
+D:\xkfy_mod\xkfy_mod\obj\Debug\xkfy_mod.csprojResolveAssemblyReference.cache

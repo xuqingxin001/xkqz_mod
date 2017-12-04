@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iID</Column>
+		<Text>消息编号</Text>
+		<Explain>消息编号</Explain>
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>xUse</Column>
+		<Text />
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>sString</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

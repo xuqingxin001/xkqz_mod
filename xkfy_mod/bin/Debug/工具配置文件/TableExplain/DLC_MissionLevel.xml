@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn46</ToolsColumn>
+		<Column>#Number</Column>
+		<Text>#关卡编号</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn47</ToolsColumn>
+		<Column>Name</Column>
+		<Text>关卡名称</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn48</ToolsColumn>
+		<Column>Battle Area</Column>
+		<Text>战斗编号</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn49</ToolsColumn>
+		<Column>Type</Column>
+		<Text>关卡种类</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn50</ToolsColumn>
+		<Column>iGroup</Column>
+		<Text>分歧编号</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn51</ToolsColumn>
+		<Column>iRepeat</Column>
+		<Text>是否重复任务</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn52</ToolsColumn>
+		<Column>Weights</Column>
+		<Text>出现机率权重</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn53</ToolsColumn>
+		<Column>Display</Column>
+		<Text>显示条件</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn54</ToolsColumn>
+		<Column>Enter</Column>
+		<Text>进入条件</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn55</ToolsColumn>
+		<Column>Close</Column>
+		<Text>关闭条件</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn56</ToolsColumn>
+		<Column>Round</Column>
+		<Text>限制回合</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn57</ToolsColumn>
+		<Column>Location</Column>
+		<Text>关卡图标位置</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn58</ToolsColumn>
+		<Column>Desc</Column>
+		<Text>关卡说明</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn59</ToolsColumn>
+		<Column>Shaq</Column>
+		<Text>限定角色</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn60</ToolsColumn>
+		<Column>EXP</Column>
+		<Text>经验奖励</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn61</ToolsColumn>
+		<Column>Fame</Column>
+		<Text>威望奖励</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn62</ToolsColumn>
+		<Column>Money</Column>
+		<Text>金钱奖励</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn63</ToolsColumn>
+		<Column>Item</Column>
+		<Text>道具奖励</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn64</ToolsColumn>
+		<Column>BeTalk</Column>
+		<Text>战前对话</Text>
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

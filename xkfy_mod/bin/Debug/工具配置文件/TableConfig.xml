@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMyConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<MyConfig>
+		<MainDtName>NeigongData</MainDtName>
+		<DetailDtName>NeigongData</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>NeigongData.txt</TxtName>
+		<Classify>Hero</Classify>
+		<Notes>内功</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>NeiGongEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>NpcData</MainDtName>
+		<DetailDtName>NpcData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>NpcData.txt</TxtName>
+		<Classify>Hero</Classify>
+		<Notes>角色简历</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>CharacterData</MainDtName>
+		<DetailDtName>CharacterData</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>CharacterData.txt</TxtName>
+		<Classify>Hero</Classify>
+		<Notes>角色武功</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<HaveHelperColumn>YES</HaveHelperColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>RoutineNewData</MainDtName>
+		<DetailDtName>RoutineNewData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>RoutineNewData.txt</TxtName>
+		<Classify>Hero</Classify>
+		<Notes>武功招式</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>RoutineNewDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>RoutineExp</MainDtName>
+		<DetailDtName>RoutineExp</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>RoutineExp.txt</TxtName>
+		<Classify>Hero</Classify>
+		<Notes>招式经验</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>BattleCondition</MainDtName>
+		<DetailDtName>BattleCondition_D</DetailDtName>
+		<DtType>1</DtType>
+		<TxtName>BattleCondition.txt</TxtName>
+		<Classify>Hero</Classify>
+		<Notes>战斗状态</Notes>
+		<BasicCritical>10</BasicCritical>
+		<EffectCritical>16</EffectCritical>
+		<EditFormName>BattleConditionEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>ItemData</MainDtName>
+		<DetailDtName>ItemData</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>ItemData.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>物品</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>ItemDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>StoreData</MainDtName>
+		<DetailDtName>StoreData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>StoreData.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>河洛商会</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>String_table</MainDtName>
+		<DetailDtName>String_table</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>String_table.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>描述语</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>TalentNewData</MainDtName>
+		<DetailDtName>TalentNewData</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>TalentNewData.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>天赋</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>NpcQuest</MainDtName>
+		<DetailDtName>NpcQuest</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>NpcQuest.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>传闻</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>NpcRandomEvent</MainDtName>
+		<DetailDtName>NpcRandomEvent</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>NpcRandomEvent.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>传闻相关</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>AbilityBookData</MainDtName>
+		<DetailDtName>AbilityBookData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>AbilityBookData.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>物品说明</Notes>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>BiographiesManager</MainDtName>
+		<DetailDtName>BiographiesManager</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>BiographiesManager.txt</TxtName>
+		<Classify>GameInfo</Classify>
+		<Notes>结局彩蛋</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>BattleAreaData</MainDtName>
+		<DetailDtName>BattleAreaData</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>BattleAreaData.txt</TxtName>
+		<Classify>zhangdou</Classify>
+		<Notes>战斗设置</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>BattleAreaDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>BattleSchedule</MainDtName>
+		<DetailDtName>BattleSchedule</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>BattleSchedule.txt</TxtName>
+		<Classify>zhangdou</Classify>
+		<Notes>战斗补充</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>RewardData</MainDtName>
+		<DetailDtName>RewardData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>RewardData.txt</TxtName>
+		<Classify>juqing</Classify>
+		<Notes>物品奖励</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>RewardDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>QuestDataManager</MainDtName>
+		<DetailDtName>QuestDataManager</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>QuestDataManager.txt</TxtName>
+		<Classify>juqing</Classify>
+		<Notes>大地图事件</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>MapTalkManager</MainDtName>
+		<DetailDtName>MapTalkManager</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>MapTalkManager.txt</TxtName>
+		<Classify>juqing</Classify>
+		<Notes>大地图对白</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn>YES</HaveHelperColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>MainEndData</MainDtName>
+		<DetailDtName>MainEndData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>MainEndData.txt</TxtName>
+		<Classify>juqing</Classify>
+		<Notes>结局</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>ChildEndData</MainDtName>
+		<DetailDtName>ChildEndData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>ChildEndData.txt</TxtName>
+		<Classify>juqing</Classify>
+		<Notes>子结局</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>AlchemyProduceData</MainDtName>
+		<DetailDtName>AlchemyProduceData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>AlchemyProduceData.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>AlchemyProduceData</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>AlchemyScene</MainDtName>
+		<DetailDtName>AlchemyScene</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>AlchemyScene.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>AlchemyScene</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>GroundItemData</MainDtName>
+		<DetailDtName>GroundItemData</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>GroundItemData.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>GroundItemData</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>QuestionData</MainDtName>
+		<DetailDtName>QuestionData</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>QuestionData.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>英雄会试题</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>QuestionMenu</MainDtName>
+		<DetailDtName>QuestionMenu</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>QuestionMenu.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>QuestionMenu</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>ScenesAudio</MainDtName>
+		<DetailDtName>ScenesAudio</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>ScenesAudio.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>ScenesAudio</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>SettingData</MainDtName>
+		<DetailDtName>SettingData</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>SettingData.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>SettingData</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>TreasureBox</MainDtName>
+		<DetailDtName>TreasureBox</DetailDtName>
+		<DtType>2</DtType>
+		<TxtName>TreasureBox.txt</TxtName>
+		<Classify>qita</Classify>
+		<Notes>大地图宝箱</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>NpcProduct</MainDtName>
+		<DetailDtName>NpcProduct</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>NpcProduct.txt</TxtName>
+		<Classify>map</Classify>
+		<Notes>NpcProduct文件通用配置</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>MapInfo</MainDtName>
+		<DetailDtName>MapInfo</DetailDtName>
+		<DtType>3</DtType>
+		<TxtName>MapInfo.txt</TxtName>
+		<Classify>map</Classify>
+		<Notes>MAP文件通用配置</Notes>
+		<BasicCritical>0</BasicCritical>
+		<EffectCritical>0</EffectCritical>
+		<EditFormName>0</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>NO</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_BattleCondition</MainDtName>
+		<DetailDtName>DLC_BattleCondition_D</DetailDtName>
+		<DtType>1</DtType>
+		<TxtName>DLC_BattleCondition.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>战斗状态</Notes>
+		<BasicCritical>10</BasicCritical>
+		<EffectCritical>16</EffectCritical>
+		<EditFormName>BattleConditionEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>YES</HaveColumn>
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_BattleAreaData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_BattleAreaData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>战斗设置</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<EditFormName>BattleAreaDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_NeigongData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_NeigongData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>内功</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_StoreData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_StoreData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>河洛商会</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_BattleSchedule</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_BattleSchedule.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>战斗补充文件</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_CharacterData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_CharacterData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>NPC战斗属性</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_NpcData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_NpcData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>NPC人物属性</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_ItemData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_ItemData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>物品信息</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<EditFormName>ItemDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_MapTalkManager</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_MapTalkManager.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>大地图对话</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_RewardData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_RewardData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>奖励文件</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<EditFormName>RewardDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_RoutineNewData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_RoutineNewData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>招式套路</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<EditFormName>RoutineNewDataEdit</EditFormName>
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_TalentNewData</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_TalentNewData.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>天赋文件</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_Fame</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_Fame.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>DLC_Fame</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_LevelUpExp</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_LevelUpExp.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>DLC_LevelUpExp</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_LevelUpPassive</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_LevelUpPassive.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>DLC_LevelUpPassive</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_MissionLevel</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_MissionLevel.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>DLC_MissionLevel</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_MissionPosition</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_MissionPosition.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>DLC_MissionPosition</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+	<MyConfig>
+		<MainDtName>DLC_Upgrade</MainDtName>
+		<DetailDtName />
+		<DtType>3</DtType>
+		<TxtName>DLC_Upgrade.txt</TxtName>
+		<Classify>Dlc</Classify>
+		<Notes>DLC_Upgrade</Notes>
+		<BasicCritical />
+		<EffectCritical />
+		<IsCache>0</IsCache>
+		<HaveColumn>NO</HaveColumn>
+		<HaveHelperColumn />
+		<IsDlcFile>YES</IsDlcFile>
+	</MyConfig>
+</ArrayOfMyConfig>

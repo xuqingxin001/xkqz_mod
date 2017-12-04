@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iID</Column>
+		<Text>策略编号</Text>
+		<Explain>策略编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>sName</Column>
+		<Text>策略名</Text>
+		<Explain>策略名</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>sDesc</Column>
+		<Text>策略描述</Text>
+		<Explain>策略描述</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>iUnlock</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>iTacticPoint</Column>
+		<Text>消耗策略点</Text>
+		<Explain>消耗策略点</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>iTargetFaction</Column>
+		<Text>策略类型</Text>
+		<Explain>策略类型</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn7</ToolsColumn>
+		<Column>iTargetType</Column>
+		<Text>策略对象</Text>
+		<Explain>策略对象</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn8</ToolsColumn>
+		<Column>iTargetWeapon</Column>
+		<Text>对象武器</Text>
+		<Explain>对象武器</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn9</ToolsColumn>
+		<Column>iConditionID</Column>
+		<Text>附加状态</Text>
+		<Explain>附加状态</Explain>
+	</TableExplain>
+</ArrayOfTableExplain>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iAbilityBook</Column>
+		<Text>技艺书编号</Text>
+		<Explain>技艺书编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>iOpenLevel</Column>
+		<Text>需要打猎熟练</Text>
+		<Explain>需要打猎熟练</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>iMonsterClass</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>iMonsterType</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>iRound</Column>
+		<Text>撞壁次数</Text>
+		<Explain>撞壁次数</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>fAtkDedSec</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn7</ToolsColumn>
+		<Column>iCollision</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn8</ToolsColumn>
+		<Column>fSpeed</Column>
+		<Text>速度</Text>
+		<Explain>速度</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn9</ToolsColumn>
+		<Column>iScore</Column>
+		<Text>猎杀得分</Text>
+		<Explain>猎杀得分</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn10</ToolsColumn>
+		<Column>iGife1</Column>
+		<Text>奖励道具</Text>
+		<Explain>奖励道具</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn11</ToolsColumn>
+		<Column>sArg1</Column>
+		<Text>掉落概率</Text>
+		<Explain>掉落概率</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn12</ToolsColumn>
+		<Column>iGife2</Column>
+		<Text>奖励道具</Text>
+		<Explain>奖励道具</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn13</ToolsColumn>
+		<Column>sArg2</Column>
+		<Text>掉落概率</Text>
+		<Explain>掉落概率</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn14</ToolsColumn>
+		<Column>iGife3</Column>
+		<Text>奖励道具</Text>
+		<Explain>奖励道具</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn15</ToolsColumn>
+		<Column>sArg3</Column>
+		<Text>掉落概率</Text>
+		<Explain>掉落概率</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn16</ToolsColumn>
+		<Column>sSound</Column>
+		<Text>叫声</Text>
+		<Explain>叫声</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn17</ToolsColumn>
+		<Column>mapno</Column>
+		<Text>地图编号</Text>
+		<Explain>地图编号</Explain>
+	</TableExplain>
+</ArrayOfTableExplain>

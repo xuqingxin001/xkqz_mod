@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <!--前传信息-->
+    <Menu>
+        <MenuText>角色信息</MenuText>
+        <MenuTag></MenuTag>
+        <MenuName>Hero</MenuName>
+    </Menu>
+    <!--游戏信息-->
+    <Menu>
+        <MenuText>游戏信息</MenuText>
+        <MenuTag></MenuTag>
+        <MenuName>GameInfo</MenuName>
+    </Menu>
+    <!--战斗相关-->
+    <Menu>
+        <MenuText>战斗相关</MenuText>
+        <MenuTag></MenuTag>
+        <MenuName>zhangdou</MenuName>
+    </Menu>
+    <!--剧情对话-->
+    <Menu>
+        <MenuText>剧情对话</MenuText>
+        <MenuTag></MenuTag>
+        <MenuName>juqing</MenuName>
+    </Menu>
+    <!--其他-->
+    <Menu>
+        <MenuText>其他文件</MenuText>
+        <MenuTag></MenuTag>
+        <MenuName>qita</MenuName>
+    </Menu>
+    <!--地图信息-->
+    <Menu>
+        <MenuText>地图信息</MenuText>
+        <MenuTag></MenuTag>
+        <MenuName>map</MenuName>
+    </Menu>
+    <!--DLC新增文件-->
+    <Menu>
+        <MenuText>DLC新增文件</MenuText>
+        <MenuTag></MenuTag>
+        <MenuName>Dlc</MenuName>
+    </Menu>
+</ArrayOfMenu>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>iNpcID</Column>
+		<Text></Text>
+		<Explain></Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>sConduct</Column>
+		<Text></Text>
+		<Explain></Explain>
+	</TableExplain>
+		<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>iTime</Column>
+		<Text></Text>
+		<Explain></Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>indexSn</Column>
+		<Text></Text>
+		<Explain>工具的索引列,生成MOD会去掉</Explain>
+	</TableExplain>
+		<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>rowState</Column>
+		<Text></Text>
+		<Explain>工具记录状态的列,生成MOD会去掉</Explain>
+	</TableExplain>
+</ArrayOfTableExplain>

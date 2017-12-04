@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#sAbilityBook</Column>
+		<Text>技艺编号</Text>
+		<Explain>技艺编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>strStart</Column>
+		<Text>初始力量范围</Text>
+		<Explain>初始力量范围</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>iBaitType</Column>
+		<Text>鱼饵类型</Text>
+		<Explain>鱼饵类型</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>iPhysical</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>sPauseTime</Column>
+		<Text>挣扎次数范围</Text>
+		<Explain>挣扎次数范围</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>iRunSec</Column>
+		<Text>逃跑时间</Text>
+		<Explain>逃跑时间</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn7</ToolsColumn>
+		<Column>iGift</Column>
+		<Text>奖励物品编号</Text>
+		<Explain>奖励物品编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn8</ToolsColumn>
+		<Column>sImage</Column>
+		<Text>图像</Text>
+		<Explain>图像</Explain>
+	</TableExplain>
+</ArrayOfTableExplain>

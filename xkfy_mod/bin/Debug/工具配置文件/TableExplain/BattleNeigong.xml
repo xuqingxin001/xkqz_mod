@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#ID</Column>
+		<Text>内功编号</Text>
+		<Explain>内功编号</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>Name</Column>
+		<Text>内功名字</Text>
+		<Explain>内功名字</Explain>
+	</TableExplain>
+</ArrayOfTableExplain>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<Column>#iTalenID$0</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iTalenType$1</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>sOpenCondition$2</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>sTalenName$3</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>sTalenTip$4</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iAppConidion$5</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>sAffetcProperty$6</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>fAffetcAmount$7</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iJudgeConditionType$8</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iJudgeCnditionAmount$9</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>sAffectType$10</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>sAffectType$11</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iAddEffect$12</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>1AddArg$13</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iAddEffect$14</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iAddArg$15</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<Column>iAppPro$16</Column>
+		<Text />
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

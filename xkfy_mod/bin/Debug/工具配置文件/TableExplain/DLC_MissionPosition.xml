@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn75</ToolsColumn>
+		<Column>#MissionPositionID</Column>
+		<Text>#编号</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn76</ToolsColumn>
+		<Column>OffsetX</Column>
+		<Text>位置X</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn77</ToolsColumn>
+		<Column>OffsetY</Column>
+		<Text>位置Y</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn78</ToolsColumn>
+		<Column>tip</Column>
+		<Text>备注</Text>
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>

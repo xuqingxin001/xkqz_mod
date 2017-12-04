@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMenu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <!--面板属性-->
+    <Menu>
+        <MenuText>面板属性</MenuText>
+        <MenuTag>1</MenuTag>
+        <MenuName>MB</MenuName>
+    </Menu>
+    <!--基本功-->
+    <Menu>
+        <MenuText>基本功</MenuText>
+        <MenuTag>32</MenuTag>
+        <MenuName>JBG</MenuName>
+    </Menu>
+    <!--武功招式-->
+    <Menu>
+        <MenuText>武功招式</MenuText>
+        <MenuTag>24</MenuTag>
+        <MenuName>ZS</MenuName>
+    </Menu>
+    <!--生活技能-->
+    <Menu>
+        <MenuText>生活技能</MenuText>
+        <MenuTag>4</MenuTag>
+        <MenuName>SHJN</MenuName>
+    </Menu>
+    <!--技艺-->
+    <Menu>
+        <MenuText>技艺</MenuText>
+        <MenuTag>5</MenuTag>
+        <MenuName>JY</MenuName>
+    </Menu>
+</ArrayOfMenu>

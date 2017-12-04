@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTableExplain xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TableExplain>
+		<ToolsColumn>TxzColumn1</ToolsColumn>
+		<Column>#iArea</Column>
+		<Text>#群组编号</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn2</ToolsColumn>
+		<Column>iClipID</Column>
+		<Text>执行顺序</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn3</ToolsColumn>
+		<Column>bStart</Column>
+		<Text>起始</Text>
+		<Explain />
+		<IsSelect>1</IsSelect>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn4</ToolsColumn>
+		<Column>iNextClipID</Column>
+		<Text>下一个</Text>
+		<Explain>执行顺序ID</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn5</ToolsColumn>
+		<Column>iLinkID</Column>
+		<Text>同时</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn6</ToolsColumn>
+		<Column>TriggerType</Column>
+		<Text>触发点设定</Text>
+		<Explain>=6 加入战斗人员 =5角色死亡触发 =1 角色行动后触发</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn7</ToolsColumn>
+		<Column>TriggerData</Column>
+		<Text>触发点资料设定</Text>
+		<Explain>TriggerType=6 代表加入的回合 TriggerType=5哪个角色死亡 TriggerType=1哪个角色行动后</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn8</ToolsColumn>
+		<Column>RequireType</Column>
+		<Text>判断条件类型</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn9</ToolsColumn>
+		<Column>RequireEqual</Column>
+		<Text>判断条件</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn10</ToolsColumn>
+		<Column>iRequireValue1</Column>
+		<Text>条件参数1</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn11</ToolsColumn>
+		<Column>iRequireValue2</Column>
+		<Text>条件参数2</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn12</ToolsColumn>
+		<Column>iTriggerPercent</Column>
+		<Text>被触发机率(%)</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn13</ToolsColumn>
+		<Column>TriggerEvent</Column>
+		<Text>触发事件</Text>
+		<Explain>=4 附加状态</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn14</ToolsColumn>
+		<Column>iTriggerEventArg1</Column>
+		<Text>触发事件参数1</Text>
+		<Explain>战斗模型ID</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn15</ToolsColumn>
+		<Column>iTriggerEventArg2</Column>
+		<Text>触发事件参数2</Text>
+		<Explain>0队友，1敌对，2中立</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn16</ToolsColumn>
+		<Column>iTriggerEventArg3</Column>
+		<Text>触发事件参数3</Text>
+		<Explain>出场位置</Explain>
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn17</ToolsColumn>
+		<Column>iGroup</Column>
+		<Text>互斥群组</Text>
+		<Explain />
+	</TableExplain>
+	<TableExplain>
+		<ToolsColumn>TxzColumn18</ToolsColumn>
+		<Column>irepeat</Column>
+		<Text>可重覆执行</Text>
+		<Explain />
+	</TableExplain>
+</ArrayOfTableExplain>
